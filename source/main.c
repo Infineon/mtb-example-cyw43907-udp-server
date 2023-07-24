@@ -11,7 +11,7 @@
 * Related Document: See README.md
 *
 *******************************************************************************
-* $ Copyright 2021 Cypress Semiconductor $
+* $ Copyright 2021-2023 Cypress Semiconductor $
 *******************************************************************************/
 
 /* Header file includes */
@@ -19,7 +19,7 @@
 #include "cybsp.h"
 #include "cy_retarget_io.h"
 
-/* FreeRTOS header file */
+/* FreeRTOS header file. */
 #include <FreeRTOS.h>
 #include <task.h>
 

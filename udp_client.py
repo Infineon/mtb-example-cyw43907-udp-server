@@ -4,7 +4,7 @@
 # Description: A simple python based UDP client.
 # 
 #********************************************************************************
-# $ Copyright 2021 Cypress Semiconductor $.
+# $ Copyright 2021-2023 Cypress Semiconductor $.
 #********************************************************************************
 
 #!/usr/bin/env python
